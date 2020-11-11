@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -38,17 +42,17 @@ body {
 }
 
 #img-2 {
-    margin: 16% 2% 43.5% 2%;
+    margin: 16% 5% 43.5% 5%;
     float: left;
-    width: 46%;
+    width: 40%;
 }
 
 .aboutmenu {
     margin-top: 10%;
-    margin-right: 2%;
+    margin-right: 5%;
     margin-bottom: 10%;
     float: right;
-    width: 48%;
+    width: 45%;
 }
 
 .aboutmenu h3 {
