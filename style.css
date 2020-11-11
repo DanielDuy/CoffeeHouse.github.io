@@ -36,3 +36,33 @@ body {
     text-align: center;
     padding: 20% 0%;
 }
+
+#img-2 {
+    margin: 16% 2% 43.5% 2%;
+    float: left;
+    width: 46%;
+}
+
+.aboutmenu {
+    margin-top: 10%;
+    margin-right: 2%;
+    margin-bottom: 10%;
+    float: right;
+    width: 48%;
+}
+
+.aboutmenu h3 {
+    font-size: 30px;
+}
+
+.aboutmenu h2 {
+    font-size: 35px;
+}
+
+.aboutmenu p {
+    font-size: 25px;
+}
+
+#aboutmenu-kilde {
+    margin-top: 10%;
+}
