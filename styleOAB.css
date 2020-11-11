@@ -1,0 +1,30 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.introduction #img-1 {
+    float: left;
+    height: 300px;
+}
+
+.introduction ul {
+    margin-right: 1.7%;
+    margin-top: 2%;
+}
+
+.introduction li {
+    margin: 1.5% 1%;
+    float: right;
+}
+
+.introduction a {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
