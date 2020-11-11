@@ -28,3 +28,11 @@ body {
     text-align: center;
     font-size: 30px;
 }
+
+.Orderandbooking {
+    position: absolute;
+    width: 50%;
+    top: 38%;
+    text-align: center;
+    left: 25%;
+}
