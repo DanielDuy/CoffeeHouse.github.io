@@ -36,3 +36,13 @@ body {
     text-align: center;
     left: 5%;
 }
+
+#imgAU-1 {
+    float: right;
+    width: 45%;
+    margin-left: 55%;
+    height: 500px;
+    object-fit: cover;
+    z-index: -1;
+    margin-bottom: 20%;
+}
