@@ -37,12 +37,26 @@ body {
     left: 5%;
 }
 
-#imgAU-1 {
+#imgAU-2 {
     float: right;
     width: 45%;
     margin-left: 55%;
     height: 500px;
     object-fit: cover;
     z-index: -1;
-    margin-bottom: 20%;
+    margin-bottom: 10%;
+}
+
+#imgAU-1 {
+    margin-left: 10%;
+    width: 30%;
+    margin-bottom: 15%;
+}
+
+#ourl {
+    float: right;
+    width: 30%;
+    margin-top: 10%;
+    margin-right: 20%;
+    margin-left: 10%;
 }
