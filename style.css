@@ -14,7 +14,7 @@ body {
 
 .introduction #img-1 {
     float: left;
-    height: 300px;
+    width: 10%;
 }
 
 .introduction ul {
